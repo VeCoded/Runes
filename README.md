@@ -1,17 +1,9 @@
-# runes
+# Runes
+Write your way
 
-A new Flutter project.
+## What's Runes?
+Runes is a simple app where you can write down your thoughts, make lists, and whatever you need to write!
+Just pick it up and write and drop it when you're done.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Just a Notes app?
+Runes is a notes app without extra bloat, no AI features, no distractions; it's just a simple app that's yours to command.
